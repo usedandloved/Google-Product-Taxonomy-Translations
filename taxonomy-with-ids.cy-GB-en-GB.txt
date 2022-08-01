@@ -1,6 +1,7 @@
 # Google_Product_Taxonomy_Version: 2021-09-21
-## Google_Product_Tacsonomeg_Fersiwn: 2021-09-21
-## Contributors: 
+# MT Date: 2021-09-21
+# MT link: https://www-google-com.translate.goog/basepages/producttype/taxonomy-with-ids.en-GB.txt?_x_tr_sl=en&_x_tr_tl=cy&_x_tr_hl=en-GB&_x_tr_pto=wapp
+# Contributors: 
 1 - Anifeiliaid a Chyflenwadau Anifeiliaid Anwes
 3237 - Anifeiliaid a Chyflenwadau Anifeiliaid Anwes > Anifeiliaid Byw
 2 - Anifeiliaid ac Anifeiliaid Anwes > Cyflenwadau Anifeiliaid Anwes
