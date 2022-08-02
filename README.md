@@ -5,7 +5,7 @@
 Google source files take the format `taxonomy-with-ids.{locale}.txt`
 e.g. taxonomy-with-ids.en-GB.txt
 
-Translated files take the format `taxonomy-with-ids.{target-locale}-{source-locale}.txt`
+Translated files take the format `taxonomy-with-ids.{target-locale}.{source-locale}.txt`
 
 ## File content
 
